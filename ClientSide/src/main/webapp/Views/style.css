@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+.row{
+	margin-right: -551px;
+    margin-left: 156px;
+}
+body {
+	background-color:MediumSeaGreen;
+}
+
+th {
+  	height: 70px;
+}
+
+h3{
+	padding : 30px;
+	text-align : center;
+}
+
